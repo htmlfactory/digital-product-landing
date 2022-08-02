@@ -9,7 +9,7 @@ Digital Product Landing is an open source, landing page template for [Bootstrap 
 
 ## Preview
 
-https://digital-product.netlify.app
+https://digital-product-lander.netlify.app
 
 ## Usage
 
