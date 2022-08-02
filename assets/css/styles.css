@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+/*!
+* HTMLFactory - Digital Product Landing v1.0.0 
+* Copyright 2013-2022 HTMLFactory
+* Licensed under MIT 
+*/
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  font-display: swap;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+p {
+  font-family: "Inter", serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Inter", sans-serif;
+}
+
+.brand-font {
+  font-family: "Mali", cursive;
+  position: relative;
+  top: 5px;
+}
+
+.footer a:hover {
+  opacity: 0.9;
+}
